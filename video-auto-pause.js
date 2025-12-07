@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Video Focus Guard: Auto Pause Background Tabs
+// @name         Auto Pause Background Video
 // @namespace    https://github.com/tunecc/video-auto-pause
 // @version      0.5
 // @description  [ZH] 仅允许当前有焦点的页面继续播放 Bilibili / YouTube 视频，自动暂停其他后台或失焦标签页，防止刷新或切换窗口抢占播放。
