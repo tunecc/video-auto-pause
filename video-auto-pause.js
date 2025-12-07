@@ -5,6 +5,10 @@
 // @description  [ZH] 仅允许当前有焦点的页面继续播放 Bilibili / YouTube 视频，自动暂停其他后台或失焦标签页，防止刷新或切换窗口抢占播放。
 // @description:en  Only allow the focused tab to keep playing videos on Bilibili / YouTube. Automatically pauses videos in background or unfocused tabs to prevent playback hijacking.
 // @author       Tune (tunecc)
+// @homepage     https://github.com/tunecc/video-auto-pause
+// @source       https://github.com/tunecc/video-auto-pause
+// @downloadURL  https://raw.githubusercontent.com/tunecc/video-auto-pause/refs/heads/main/video-auto-pause.js
+// @downloadURL  https://raw.githubusercontent.com/tunecc/video-auto-pause/refs/heads/main/video-auto-pause.js
 // @match        https://*.bilibili.com/*
 // @match        https://*.youtube.com/*
 // @grant        GM_setValue
