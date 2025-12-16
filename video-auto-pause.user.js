@@ -7,8 +7,8 @@
 // @author       Tune (tunecc)
 // @homepage     https://github.com/tunecc/video-auto-pause
 // @source       https://github.com/tunecc/video-auto-pause
-// @downloadURL  https://raw.githubusercontent.com/tunecc/video-auto-pause/refs/heads/main/video-auto-pause.js
-// @downloadURL  https://raw.githubusercontent.com/tunecc/video-auto-pause/refs/heads/main/video-auto-pause.js
+// @downloadURL  https://raw.githubusercontent.com/tunecc/video-auto-pause/refs/heads/main/video-auto-pause.user.js
+// @downloadURL  https://raw.githubusercontent.com/tunecc/video-auto-pause/refs/heads/main/video-auto-pause.user.js
 // @match        https://*.bilibili.com/*
 // @match        https://*.youtube.com/*
 // @grant        GM_setValue

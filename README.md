@@ -21,4 +21,4 @@ Only allow the focused tab to keep playing videos on Bilibili / YouTube. Automat
 ## Installation
 
 1. 安装 Tampermonkey / Violentmonkey 等用户脚本管理器。
-3. [点击这里](https://raw.githubusercontent.com/tunecc/video-auto-pause/master/video-auto-pause.js)安装脚本。
+3. [点击这里](https://raw.githubusercontent.com/tunecc/video-auto-pause/master/video-auto-pause.user.js)安装脚本。
